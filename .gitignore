@@ -1,0 +1,5 @@
+.env
+.venv/
+taskmind_checkpoints.sqlite
+__pycache__/
+*.pyc
